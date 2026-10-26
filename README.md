@@ -12,3 +12,4 @@ dia 4 agregamos los moustro y la explosion nuclear esta bueno empezando a estar 
 
 <img width="980" height="780" alt="image" src="https://github.com/user-attachments/assets/b3f6d0c6-a8f5-4c28-a41e-d57f42777b36" />
 dia 5  vamos a publicar la beta del juego esta interesante pero tengo mucho trabajo que hacer para ue sea muy bueno 
+COMO JUGAR  INGRESA EN https://prototipojuego.netlify.app/ Y PRESIONA EL TEXTO ROJO HAY  TE LLEVARA A LA PAGINA DE ROBLOX EN LA QUE PUEDES EMPEZAR A JUGAR 
